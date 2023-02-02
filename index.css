@@ -1,0 +1,111 @@
+body{
+    display: flex;
+    justify-content: center;
+    padding-top: 200px;
+    background: #004980;
+ }
+ .app{
+     border: 1px solid #eee;
+     display: flex;
+     flex-direction: column;
+     align-items: center;
+     gap: 25px;
+     width: 480px;
+     height: 459px;
+     left: 272px;
+     top: 158px;
+     background: #C2F5FF;
+     border-radius: 12px;
+ }
+ .text{
+     display: flex;
+     justify-content: center;
+     width: 208px;
+     height: 96px;
+     left: 408px;
+     top: 210px;
+     font-family: 'StratosSkyeng';
+     font-style: normal;
+     font-weight: 400;
+     font-size: 40px;
+     line-height: 48px;
+     text-align: center;
+     color: #004980;
+ }
+ .level-btn {
+     display: flex;
+     justify-content: center;
+     gap: 40px;
+ }
+ .start-btn{
+     display: flex;
+     justify-content: center;
+     padding-top: 67px;
+ }
+ .one{
+     background: #FFFFFF;
+     border-radius: 12px;
+     border: none;
+     width: 97px;
+     height: 98px;
+     font-family: 'StratosSkyeng';
+     font-style: normal;
+     font-weight: 400;
+     font-size: 64px;
+     line-height: 72px;
+     display: flex;
+     align-items: center;
+     text-align: center;
+     justify-content: center;
+     color: #0080C1;
+ }
+ .two{
+     background: #FFFFFF;
+     border-radius: 12px;
+     border: none;
+     width: 97px;
+     height: 98px;
+     font-family: 'StratosSkyeng';
+     font-style: normal;
+     font-weight: 400;
+     font-size: 64px;
+     line-height: 72px;
+     display: flex;
+     align-items: center;
+     text-align: center;
+     justify-content: center;
+     color: #0080C1;
+ }
+ .three {
+     background: #FFFFFF;
+     border-radius: 12px;
+     border: none;
+     width: 97px;
+     height: 98px;
+     font-family: 'StratosSkyeng';
+     font-style: normal;
+     font-weight: 400;
+     font-size: 64px;
+     line-height: 72px;
+     display: flex;
+     align-items: center;
+     text-align: center;
+     justify-content: center;
+     color: #0080C1;
+ }
+ .start_button{
+     font-family: 'StratosSkyeng';
+     font-style: normal;
+     font-weight: 400;
+     font-size: 24px;
+     line-height: 32px;
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     color: #FFFFFF;
+     width: 246px;
+     height: 50px;
+     border: none;
+     background: #7AC100;
+     border-radius: 12px;
+ }
